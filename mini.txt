@@ -1,0 +1,3 @@
+even numbers
+odd numbers
+prime numbers
